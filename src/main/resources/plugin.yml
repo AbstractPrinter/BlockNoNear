@@ -1,0 +1,5 @@
+name: BlockNoNear
+version: ${project.version}
+main: cn.wangyudi.blocknonear.blocknonear.BlockNoNear
+prefix: BlockNoNear
+authors: [ AbstractPrinter ]
